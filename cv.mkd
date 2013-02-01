@@ -1,19 +1,171 @@
-Vaga
-====
+#Vagas
 
-[Preencha aqui a vaga que você pretende]
+Área de Home, Plataforma de Personalização
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+#CV
 
-CV
-==
+##Stanislaw Pusep
+---
+ * São Paulo, SP, Brasil
+ * [stas@sysd.org](mailto:stas@sysd.org)
+ * <https://coderwall.com/creaktive>
+ * <http://br.linkedin.com/in/creaktive/>
 
-[Preencha aqui o seu cv]
+> Programador autodidata, guiado pelo desafio de superar as limitações arbitrárias e em constante fuga das tarefas mecanicamente repetitivas. Incapaz de aceitar um "não" vindo de um computador, assim como um "sim, só que..." (afinal, sempre existe mais de uma maneira de fazê-lo). Generalista, interessado em resolver problemas reais ao invés de correr atrás das "tendências do mercado". Fazedor de ferramentas, fuçador e contribuidor *Open Source*.
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+##Conhecimentos
+---
+ * Linguagens de programação: Perl, C, JavaScript, ActionScript, Assembly (x86);
+ * Bancos de dados relacionais: PostgreSQL, MySQL, SQLite, Oracle;
+ * Bancos de dados não-relacionais (*NoSQL*): MongoDB, CouchDB, memcached, Sphinx.
+ * Sistemas Operacionais: FreeBSD, Linux, Mac OS X, Windows;
+ * Web: servidores Apache, lighttpd, nginx. Interfaces AJAX, REST, SOAP, XML (com *schema* XSD);
+ * *Inter-Process Communication*: TCP/IP e *Unix domain sockets* em modo assíncrono (*non-blocking I/O*);
+ * *Data ­mining, collaborative filtering, code­ coverage, testing, profiling, micro-­optimization*.
+
+##Idiomas
+---
+Russo Nativo, Português Nativo, Inglês Fluente, Espanhol Básico.
+
+##Formação Acadêmica
+---
+###Desenho Industrial - Projeto do Produto - FAAC/Unesp - 2009
+
+ * Recebeu Diploma de Mérito Acadêmico;
+ * Recebeu uma bolsa da FAPESP para desenvolver Iniciação Científica no LEI (Laboratório de Ergonomia e Interfaces);
+ * Participou da Competição SAE de Aerodesign de 2007 como integrante da equipe Daedalus Unesp (colocação #11).
+
+###Bacharelado em Ciências de Computação - ICMC/USP - 2005 (interrompido)
+ * Desenvolveu um programa para criação e controle do potencial pseudo-aleatório para elétrons em *superlattices* semi-condutoras intencionalmente desorientadas. A contribuição foi citada em [Phys. Rev. B 63, 115311­1 (2001)](http://prb.aps.org/abstract/PRB/v63/i11/e115311). O mesmo programa também foi utilizado em vários artigos subsequentes publicados em *Physical Review Letters* e em *Physical Review*;
+ * Desenvolveu a ferramenta de invasão, [inPEct](https://github.com/creaktive/inPEct), que foi usada como *test case* em um artigo [influente](http://scholar.google.com/scholar?hl=en&lr=&cites=798897686326105988) intitulado [A Toolkit for Detecting and Analyzing Malicious Software](http://www.cigitalabs.com/papers/download/PEAT_ACSAC02.pdf);
+ * Recebeu uma bolsa de monitoria do [Programa Pró­-Aluno da USP](http://www.usp.br/proaluno/);
+ * Recebeu Diploma de Mérito participando da [Olimpíada Brasileira de Informática](http://olimpiada.ic.unicamp.br/).
+
+##Aprimoramentos / Workshops / Conferências
+---
+ * YAPC :: Brasil 2012 - São Paulo Perl Mongers - 2012 
+ * Encontro Técnico São Paulo Perl Mongers - São Paulo Perl Mongers - 2012
+ * II São Paulo Perl Workshop - São Paulo Perl Mongers - 2011 
+ * Happy Hour MySQL - Oracle Corporation - 2011 
+ * Google Developer Day 2011 - Google Inc. - 2011 
+ * Google Developer Day 2010 - Google Inc. - 2010 
+ * 5º CIPED Congresso Internacional de Pesquisa em Design - Unesp - 2009 
+ * Teorias Contemporâneas dos Estudos de Videojogos - Universidade Federal de São Carlos - 2008 
+ * Xª Competição SAE BRASIL de AeroDesign - SAE Brasil/Embraer - 2008 
+ * Iº Simpósio Paulista de Pesquisa e Pós-graduação em Design - Unesp - 2008 
+ * 8º P&D Design - Congresso Brasileiro de Pesquisa e Desenvolvimento em Design - SENAC - 2008
+ * IXª Competição SAE BRASIL de AeroDesign - SAE Brasil/Embraer - 2007
+
+##Artigos e Publicações
+---
+ * PUSEP, S. Lendo CSV: entre PIPE e DBMS, Manual dos Dados Abertos para Desenvolvedores, **W3C Brasil**, 5 set. 2011. (<http://www.w3c.br/Noticias/W3CBrasilLancaManualDadosAbertosDesenvolvedores>)
+
+ * PUSEP, S. Perl e Unicode (Entre Outras Codificações de Texto), Equinócio de Março de 2011, **São Paulo Perl Mongers**, 4 mar. 2011 (selecionado como sendo o melhor artigo do ciclo; <http://sao-paulo.pm.org/artigo/2011/PERLEUNICODEENTREOUTRASCODIFICACOESDETEXTO>)
+
+ * BRUNO, O. M.; POUSSEP, S. Conectiva Linux 7.0 dá mais acesso para leigos, **Folha de São Paulo** (Folha Informática), 25 jul. 2001. (<http://www1.folha.uol.com.br/folha/informatica/ult124u7080.shtml>)
+
+ * PUSEP, S. Google Refine + Perl, **blogs.perl.org**, publicação original em 2 jul. 2012. (<http://blogs.perl.org/users/stas/2012/11/google-refine-perl.html>)
+
+ * PUSEP, S. Perl Assíncrono, Equinócio de Setembro de 2011, **São Paulo Perl Mongers**, 13 set. 2011. (<http://sao-paulo.pm.org/equinocio/2011/set/13>)
+
+ * PUSEP, S. Web Scraping with Modern Perl (Part 1), **blogs.perl.org**, 21 jan. 20132. (<http://blogs.perl.org/users/stas/2013/01/web-scraping-with-modern-perl-part-1.html>)
+
+##Projetos e Interesses
+---
+ * [LWP::Protocol::Net::Curl](http://cpan.me/LWP::Protocol::Net::Curl):
+Substituto *drop-in* que habilita o [libcurl](http://curl.haxx.se/libcurl/) como *backend* dos módulos Perl [LWP](http://cpan.me/LWP), [WWW::Mechanize](http://cpan.me/WWW::Mechanize) e os seus derivados.
+
+ * [CPAN::U](http://cpan-u.sysd.org/):
+*CPAN for You* é um sistema de recomendação para desenvolvedores Perl que emprega filtragem colaborativa.
+
+ * [Text::SpeedyFx](http://cpan.me/Text::SpeedyFx):
+Implementação XS (Perl + C) de um *parser/hasher* combinado de alto desempenho. O [algoritmo original](http://www.hpl.hp.com/techreports/2008/HPL-2008-91R1.pdf) (implementado em Java) foi adaptado para melhor a conformidade com Unicode.
+
+ * [Ampersand GUI](https://vimeo.com/8008055):
+Proposta de um novo paradigma para as Interfaces Homem-Máquina.
+Demonstração (screencast) do pré-protótipo da proposta resultante do Projeto de Conclusão de Curso de Desenho Industrial - Projeto do Produto.
+
+ * [HTML::Untemplate](http://cpan.me/HTML::Untemplate):
+Uma ferramenta de mineração não-supervisionada de padrões *XPath* para extração de dados (*scrapping*) de *templates* HTML fixos.
+
+ * [AnyEvent::Net::Curl::Queued](http://cpan.me/AnyEvent::Net::Curl::Queued):
+Gerenciador de download assíncrono em lote, visando alto desempenho e baixo consumo de processamento.
+
+ * [aircrack](https://github.com/creaktive/aircrack-ng):
+Contribui com a implementação do módulo `uniqueiv.c` que resultou em uma redução da alocação de memória para detecção de colisão de IV (*initialization vector*) de 48 MB para 2,25 MB.
+
+##Experiência Profissional
+---
+###ACT Desenvolvimento e Participações Ltda. - fev/11 a atual
+Startup brasileira privada, atuante no segmento de mercado imobiliário
+
+Co-fundador e Diretor Técnico
+
+Entrei como o único sócio com experiência em desenvolvimento de software. Fui o responsável por traduzir as ideias de *business* dos demais dois sócios em um produto funcional, contando com um orçamento baixo e escassez de mão de obra. 
+
+Principais Resultados
+
+1. Desenvolvimento e implantação de todas as fases de arquitetura escalável e tolerante a falhas que extrai, padroniza e filtra diariamente 900 mil fichas de imóveis oriundas dos sites de 1500 imobiliárias de todo o Brasil.
+2. Seleção e contratação de equipe de TI alocada internamente no projeto. Avaliação de fornecedores de serviços de *software house* e *head hunters*. 
+3. Definição desde o cronograma e até a produção de primeiro produto apresentável aos investidores, assim como as prioridades e as necessidades para poder lançar este produto publicamente. 
+4. Alinhamento de escopo da atuação da empresa no ramo de TI e estruturação dos processos do time de TI para que este fosse auto-gerenciável ao máximo.
+
+###Buscapé Company - set/11 a atual
+Empresa brasileira privada de grande porte, atuante no segmento de e-commerce.
+
+**Analista Programador Sênior**
+
+Responsável pela atualização automática dos dados de ofertas a partir de fontes não-padronizadas, com foco em sites de compra coletiva da África do Sul e América Latina, além dos parceiros internos do grupo BuscaPé. Manutenção e adaptação do sistema de crawlers, expandindo a cobertura para novos sites. Realização de trabalhos de ETL (*Extract, Transform, Load*) e *data mining* pontuais.
+
+Principais Resultados 
+
+1. Desenvolvimento de ferramentas e procedimentos que melhoraram a eficiência e o custo operacional de crawlers, permitindo a diminuição significativa de equipe e realização da manutenção ou criação de crawlers utilizando, em média, 10% do tempo anterior.
+2. Implementação do serviço de monitoramento de desempenho de crawlers baseado em estatística descritiva. Através deste serviço, o Depto. Comercial foi capaz de acompanhar diariamente a operação de dezenas de crawlers e detectar as anomalias nos indicadores de captura de dados. No período anterior à existência deste serviço, detectar e localizar os eventuais erros demandava o acionamento de vários setores de TI.
+3. Criação do categorizador automático das ofertas. Com a expansão do serviço SaveMe, a categorização manual de milhares de ofertas por dia tornou-se inviável. A primeira versão do categorizador empregava [Google Prediction API](https://developers.google.com/prediction/) e possuía uma taxa de acerto de 85%. Para a segunda versão, foi implementado o algoritmo de classificador *Naïve Bayes* empregando o modelo *MapReduce*, o que elevou a taxa de acerto para a média de 90%.
+4. Desenvolvimento de crawlers para ModaIT (outra empresa do grupo BuscaPé), o que viabilizou o lançamento do seu site inédito, porém com centenas de milhares de produtos já expostos em sua vitrine.
+5. Desenvolvimento do conversor de dados que possibilitou o intercâmbio dos dados de ofertas/produtos entre SaveMe e Lomadee (outra empresa do grupo BuscaPé).
+
+###JáCotei - set/10 a set/11
+Empresa brasileira privada de médio porte, atuante no segmento de e-commerce
+
+**Analista Programador Pleno1 - até 04/11; Analista Programador Pleno2 - até 08/11
+Analista Programador Sênior - até 09/11**
+
+Atualização da base de dados dos produtos anunciados. O sistema sob a minha responsabilidade operava no limite dos recursos disponíveis, portanto todas as modificações exigiam planejamento e testes reforçados. Contribuição junto ao Depto. De Conteúdo na localização e eliminação de inconsistências nas fichas dos produtos. Freqüentemente direcionava os profissionais de TI dos anunciantes na elaboração do formato padronizado a ser importado pelo JáCotei.
+
+Principais Resultados
+
+1. Eliminação de 2 *frameworks* legados de ETL (*Extract, Transform, Load*) que demandavam recursos computacionais (servidores extra) e humanos (complexidade da manutenção). Homologação do *framework* de 3ª geração, migrando todas as funcionalidades dos *frameworks* legados para o atual.
+2. Inclusão do módulo assíncrono de percurso em profundidade ao *framework*, desenvolvendo novos crawlers mais rápidos. Sites grandes, que levavam até 04 dias para serem percorridos pelo crawler, passaram a ser atualizados diariamente, em período noturno.
+3. Limpeza e otimização do *framework* de ETL com criação da suíte de testes unitários que validava o código-fonte diariamente, possibilitando a eliminação do "código morto" e resultando em processamento 2,5x mais rápido, utilizando apenas 1/3 de memória RAM.
+4. Supervisão de estagiário que atingiu a proficiência em linguagem Perl e foi contratado como Programador Júnior. Em seguida, tornei-o apto a assumir a manutenção rotineira do sistema de ETL, o que viabilizou o meu enfoque no planejamento dentro do projeto de reestruturação do *backend* do site JáCotei.
+5. Migração do versionamento do *framework* de ETL de SVN para Git e adaptação dos colaboradores envolvidos. O uso do *deploy* automático via Git eliminou completamente os erros humanos responsáveis pela inconsistência das versões produção/desenvolvimento.
+
+###Grudaemmim Comunicação Digital Ltda. - jan/10 a set/10
+Empresa brasileira privada de médio porte, atuante no segmento de publicidade
+
+**Coordenador de TI**
+
+Execução de projetos críticos e coordenação da terceirização dos subprojetos. Eventualmente, realizei processos de seleção e contratação para estruturar a equipe de TI interna. Também me responsabilizei pela disponibilidade da infra-estrutura dos sites e hotsites gerenciados pela agência, que sofriam picos de acesso devido às campanhas realizadas.
+
+Principais Resultados
+
+1. Participação na codificação dos sites oficiais e/ou promocionais dos clientes: Bebel Gilberto, Brasília Shopping, Caixa Econômica Federal, Capital Inicial, Cesar Menotti & Fabiano, Claro e Rock In Rio 2011. Estes trabalhos, devido à importância estratégica para a agência, precisavam de uma execução rápida e de qualidade.
+2. Criação da interface para a análise exploratória da base de dados dos “fãs da Grudaemmim”, permitindo segmentar o público-alvo e tirar as conclusões mercadológicas sobre o perfil dos “fãs”.
+3. Desenvolvimento de uma estrutura padrão visando facilitar a criação dos sites futuros dos clientes com base no CMS Drupal.
+4. Levantamento de requisitos e configuração de um servidor dedicado voltado para alta disponibilidade, o que permitiu dispensar (quando permitido contratualmente) a infra-estrutura heterogênea fornecida pelos próprios clientes.
+
+###Secundum Comunicação e Marketing - jan/09 a mai/11
+Micro-Empresa brasileira privada, atuante no segmento de e-commerce
+
+**Programador**
+
+Garantir a estabilidade do sistema dos clientes comissionados. Readequação constante do sistema, minimizando os gastos com a infra-estrutura e maximizando as comissões. Conferência de relatórios de erros de importação via [API do MercadoLivre](http://developers.mercadolibre.com/) e as estatísticas dos acessos aos anúncios instalados nos sites/blogs dos clientes, tomando as providências corretivas a curto prazo e reportando eventuais problemas a médio/longo prazo. Assistência e suporte técnico aos clientes com dificuldades na implantação do produto.
+
+Principais Resultados
+
+1. Desenvolvimento dos produtos com característica distinta de alta compatibilidade e facilidade de operação, seguindo rigidamente os padrões W3C e testados em uma variedade de navegadores e ambientes de servidores.
+2. Reimplementação de plataforma original, desenvolvido por um não-programador, para seguir as boas práticas e empregar os algoritmos e técnicas adequadas aos problemas abordados. Com isso, foi possível dispensar um dos servidores e realizar o *downgrade* do outro para uma versão mais econômica.
+3. Desenvolvimento de um painel de controle que possibilitou o acompanhamento, em tempo real, dos indicadores de operação do sistema e a identificação dos gargalos técnicos e externos.
+4. Prototipagem de novos produtos, permitindo testes A/B em pequena escala, com tempo curto de implementação.
+5. Implementação de *deploy* contínuo via Git, facilitando o lançamento das novas versões dos produtos sem que ocorra a "quebra" das antigas.
