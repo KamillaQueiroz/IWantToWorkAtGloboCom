@@ -5,7 +5,7 @@
 #CV
 
 ##Stanislaw Pusep
----
+
  * São Paulo, SP, Brasil
  * [stas@sysd.org](mailto:stas@sysd.org)
  * <https://coderwall.com/creaktive>
@@ -14,21 +14,21 @@
 > Programador autodidata, guiado pelo desafio de superar as limitações arbitrárias e em constante fuga das tarefas mecanicamente repetitivas. Incapaz de aceitar um "não" vindo de um computador, assim como um "sim, só que..." (afinal, sempre existe mais de uma maneira de fazê-lo). Generalista, interessado em resolver problemas reais ao invés de correr atrás das "tendências do mercado". Fazedor de ferramentas, fuçador e contribuidor *Open Source*.
 
 ##Conhecimentos
----
+
  * Linguagens de programação: Perl, C, JavaScript, ActionScript, Assembly (x86);
  * Bancos de dados relacionais: PostgreSQL, MySQL, SQLite, Oracle;
- * Bancos de dados não-relacionais (*NoSQL*): MongoDB, CouchDB, memcached, Sphinx.
+ * Bancos de dados não-relacionais ( _NoSQL_ ): MongoDB, CouchDB, memcached, Sphinx.
  * Sistemas Operacionais: FreeBSD, Linux, Mac OS X, Windows;
  * Web: servidores Apache, lighttpd, nginx. Interfaces AJAX, REST, SOAP, XML (com *schema* XSD);
- * *Inter-Process Communication*: TCP/IP e *Unix domain sockets* em modo assíncrono (*non-blocking I/O*);
- * *Data ­mining, collaborative filtering, code­ coverage, testing, profiling, micro-­optimization*.
+ * *Inter-Process Communication*: TCP/IP e *Unix domain sockets* em modo assíncrono ( _non-blocking I/O_ );
+ * *Web ­mining, collaborative filtering, code­ coverage, testing, profiling, micro-­optimization*.
 
 ##Idiomas
----
+
 Russo Nativo, Português Nativo, Inglês Fluente, Espanhol Básico.
 
 ##Formação Acadêmica
----
+
 ###Desenho Industrial - Projeto do Produto - FAAC/Unesp - 2009
 
  * Recebeu Diploma de Mérito Acadêmico;
@@ -38,11 +38,11 @@ Russo Nativo, Português Nativo, Inglês Fluente, Espanhol Básico.
 ###Bacharelado em Ciências de Computação - ICMC/USP - 2005 (interrompido)
  * Desenvolveu um programa para criação e controle do potencial pseudo-aleatório para elétrons em *superlattices* semi-condutoras intencionalmente desorientadas. A contribuição foi citada em [Phys. Rev. B 63, 115311­1 (2001)](http://prb.aps.org/abstract/PRB/v63/i11/e115311). O mesmo programa também foi utilizado em vários artigos subsequentes publicados em *Physical Review Letters* e em *Physical Review*;
  * Desenvolveu a ferramenta de invasão, [inPEct](https://github.com/creaktive/inPEct), que foi usada como *test case* em um artigo [influente](http://scholar.google.com/scholar?hl=en&lr=&cites=798897686326105988) intitulado [A Toolkit for Detecting and Analyzing Malicious Software](http://www.cigitalabs.com/papers/download/PEAT_ACSAC02.pdf);
- * Recebeu uma bolsa de monitoria do [Programa Pró­-Aluno da USP](http://www.usp.br/proaluno/);
+ * Recebeu uma bolsa de monitoria do [Programa Pró­-Aluno da USP](http://www.usp.br/proaluno/);
  * Recebeu Diploma de Mérito participando da [Olimpíada Brasileira de Informática](http://olimpiada.ic.unicamp.br/).
 
 ##Aprimoramentos / Workshops / Conferências
----
+
  * YAPC :: Brasil 2012 - São Paulo Perl Mongers - 2012 
  * Encontro Técnico São Paulo Perl Mongers - São Paulo Perl Mongers - 2012
  * II São Paulo Perl Workshop - São Paulo Perl Mongers - 2011 
@@ -57,7 +57,7 @@ Russo Nativo, Português Nativo, Inglês Fluente, Espanhol Básico.
  * IXª Competição SAE BRASIL de AeroDesign - SAE Brasil/Embraer - 2007
 
 ##Artigos e Publicações
----
+
  * PUSEP, S. Lendo CSV: entre PIPE e DBMS, Manual dos Dados Abertos para Desenvolvedores, **W3C Brasil**, 5 set. 2011. (<http://www.w3c.br/Noticias/W3CBrasilLancaManualDadosAbertosDesenvolvedores>)
 
  * PUSEP, S. Perl e Unicode (Entre Outras Codificações de Texto), Equinócio de Março de 2011, **São Paulo Perl Mongers**, 4 mar. 2011 (selecionado como sendo o melhor artigo do ciclo; <http://sao-paulo.pm.org/artigo/2011/PERLEUNICODEENTREOUTRASCODIFICACOESDETEXTO>)
@@ -71,7 +71,7 @@ Russo Nativo, Português Nativo, Inglês Fluente, Espanhol Básico.
  * PUSEP, S. Web Scraping with Modern Perl (Part 1), **blogs.perl.org**, 21 jan. 20132. (<http://blogs.perl.org/users/stas/2013/01/web-scraping-with-modern-perl-part-1.html>)
 
 ##Projetos e Interesses
----
+
  * [LWP::Protocol::Net::Curl](http://cpan.me/LWP::Protocol::Net::Curl):
 Substituto *drop-in* que habilita o [libcurl](http://curl.haxx.se/libcurl/) como *backend* dos módulos Perl [LWP](http://cpan.me/LWP), [WWW::Mechanize](http://cpan.me/WWW::Mechanize) e os seus derivados.
 
@@ -86,16 +86,16 @@ Proposta de um novo paradigma para as Interfaces Homem-Máquina.
 Demonstração (screencast) do pré-protótipo da proposta resultante do Projeto de Conclusão de Curso de Desenho Industrial - Projeto do Produto.
 
  * [HTML::Untemplate](http://cpan.me/HTML::Untemplate):
-Uma ferramenta de mineração não-supervisionada de padrões *XPath* para extração de dados (*scrapping*) de *templates* HTML fixos.
+Uma ferramenta de mineração não-supervisionada de padrões *XPath* para extração de dados ( _scrapping_ ) de *templates* HTML fixos.
 
  * [AnyEvent::Net::Curl::Queued](http://cpan.me/AnyEvent::Net::Curl::Queued):
 Gerenciador de download assíncrono em lote, visando alto desempenho e baixo consumo de processamento.
 
  * [aircrack](https://github.com/creaktive/aircrack-ng):
-Contribui com a implementação do módulo `uniqueiv.c` que resultou em uma redução da alocação de memória para detecção de colisão de IV (*initialization vector*) de 48 MB para 2,25 MB.
+Contribui com a implementação do módulo `uniqueiv.c` que resultou em uma redução da alocação de memória para detecção de colisão de IV ( _initialization vector_ ) de 48 MB para 2,25 MB.
 
 ##Experiência Profissional
----
+
 ###ACT Desenvolvimento e Participações Ltda. - fev/11 a atual
 Startup brasileira privada, atuante no segmento de mercado imobiliário
 
@@ -115,7 +115,7 @@ Empresa brasileira privada de grande porte, atuante no segmento de e-commerce.
 
 **Analista Programador Sênior**
 
-Responsável pela atualização automática dos dados de ofertas a partir de fontes não-padronizadas, com foco em sites de compra coletiva da África do Sul e América Latina, além dos parceiros internos do grupo BuscaPé. Manutenção e adaptação do sistema de crawlers, expandindo a cobertura para novos sites. Realização de trabalhos de ETL (*Extract, Transform, Load*) e *data mining* pontuais.
+Responsável pela atualização automática dos dados de ofertas a partir de fontes não-padronizadas, com foco em sites de compra coletiva da África do Sul e América Latina, além dos parceiros internos do grupo BuscaPé. Manutenção e adaptação do sistema de crawlers, expandindo a cobertura para novos sites. Realização de trabalhos de ETL ( _Extract, Transform, Load_ ) e *data mining* pontuais.
 
 Principais Resultados 
 
@@ -135,7 +135,7 @@ Atualização da base de dados dos produtos anunciados. O sistema sob a minha re
 
 Principais Resultados
 
-1. Eliminação de 2 *frameworks* legados de ETL (*Extract, Transform, Load*) que demandavam recursos computacionais (servidores extra) e humanos (complexidade da manutenção). Homologação do *framework* de 3ª geração, migrando todas as funcionalidades dos *frameworks* legados para o atual.
+1. Eliminação de 2 *frameworks* legados de ETL ( _Extract, Transform, Load_ ) que demandavam recursos computacionais (servidores extra) e humanos (complexidade da manutenção). Homologação do *framework* de 3ª geração, migrando todas as funcionalidades dos *frameworks* legados para o atual.
 2. Inclusão do módulo assíncrono de percurso em profundidade ao *framework*, desenvolvendo novos crawlers mais rápidos. Sites grandes, que levavam até 04 dias para serem percorridos pelo crawler, passaram a ser atualizados diariamente, em período noturno.
 3. Limpeza e otimização do *framework* de ETL com criação da suíte de testes unitários que validava o código-fonte diariamente, possibilitando a eliminação do "código morto" e resultando em processamento 2,5x mais rápido, utilizando apenas 1/3 de memória RAM.
 4. Supervisão de estagiário que atingiu a proficiência em linguagem Perl e foi contratado como Programador Júnior. Em seguida, tornei-o apto a assumir a manutenção rotineira do sistema de ETL, o que viabilizou o meu enfoque no planejamento dentro do projeto de reestruturação do *backend* do site JáCotei.
@@ -151,7 +151,7 @@ Execução de projetos críticos e coordenação da terceirização dos subproje
 Principais Resultados
 
 1. Participação na codificação dos sites oficiais e/ou promocionais dos clientes: Bebel Gilberto, Brasília Shopping, Caixa Econômica Federal, Capital Inicial, Cesar Menotti & Fabiano, Claro e Rock In Rio 2011. Estes trabalhos, devido à importância estratégica para a agência, precisavam de uma execução rápida e de qualidade.
-2. Criação da interface para a análise exploratória da base de dados dos “fãs da Grudaemmim”, permitindo segmentar o público-alvo e tirar as conclusões mercadológicas sobre o perfil dos “fãs”.
+2. Criação da interface para a análise exploratória da base de dados dos "fãs da Grudaemmim", permitindo segmentar o público-alvo e tirar as conclusões mercadológicas sobre o perfil dos “fãs”.
 3. Desenvolvimento de uma estrutura padrão visando facilitar a criação dos sites futuros dos clientes com base no CMS Drupal.
 4. Levantamento de requisitos e configuração de um servidor dedicado voltado para alta disponibilidade, o que permitiu dispensar (quando permitido contratualmente) a infra-estrutura heterogênea fornecida pelos próprios clientes.
 
