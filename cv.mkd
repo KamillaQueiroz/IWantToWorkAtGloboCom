@@ -99,7 +99,7 @@ Contribui com a implementação do módulo `uniqueiv.c` que resultou em uma redu
 ###ACT Desenvolvimento e Participações Ltda. - fev/11 a atual
 Startup brasileira privada, atuante no segmento de mercado imobiliário
 
-Co-fundador e Diretor Técnico
+**Co-fundador e Diretor Técnico**
 
 Entrei como o único sócio com experiência em desenvolvimento de software. Fui o responsável por traduzir as ideias de *business* dos demais dois sócios em um produto funcional, contando com um orçamento baixo e escassez de mão de obra. 
 
