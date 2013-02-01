@@ -79,7 +79,7 @@ Substituto *drop-in* que habilita o [libcurl](http://curl.haxx.se/libcurl/) como
 *CPAN for You* é um sistema de recomendação para desenvolvedores Perl que emprega filtragem colaborativa.
 
  * [Text::SpeedyFx](http://cpan.me/Text::SpeedyFx):
-Implementação XS (Perl + C) de um *parser/hasher* combinado de alto desempenho. O [algoritmo original](http://www.hpl.hp.com/techreports/2008/HPL-2008-91R1.pdf) (implementado em Java) foi adaptado para melhor a conformidade com Unicode.
+Implementação XS (Perl + C) de um *parser/hasher* combinado de alto desempenho. O [algoritmo original](http://www.hpl.hp.com/techreports/2008/HPL-2008-91R1.pdf) (implementado em Java) foi adaptado para melhor conformidade com Unicode.
 
  * [Ampersand GUI](https://vimeo.com/8008055):
 Proposta de um novo paradigma para as Interfaces Homem-Máquina.
