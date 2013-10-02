@@ -1,7 +1,7 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Analista de Teste de Software / Qualidade de Software
 
 __Dicas:__
 * Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
@@ -9,7 +9,73 @@ __Dicas:__
 CV
 ==
 
-[Preencha aqui o seu cv]
+Kamilla Maria de Queiróz Xavier - q.kamilla@gmail.com – (85) 9713 3304
+
+Pós-Graduando em Teste e Qualidade de Software, Analista de Teste Pleno, seis anos de experiência integrando equipes de
+desenvolvimento em plataformas .Net e Java.
+
+FORMAÇÃO
+
+Pós-graduando em Teste e Qualidade de Software, UNINASSAU
+Graduada Análise e Desenvolvimento de Sistemas, UNITINS
+
+CURSOS COMPLEMENTARES
+
+Automação de Testes Funcionais com Cucumber – Qualister / Automação de Teste de Desempenho com JMETER – Qualister / 
+Testes de Software – Alfamidia Educação Prow / Desenvolvimento Web – Target Trust / QT4 e C++ - Instituto FACSUL
+
+EXOERIÊNCIA
+
+Setembro 2013 - Atual – Analista de Testes Pleno – Synapsis Brasil (Projeto Banco do Nordeste / CE)
+Planejamento, elaboração e revisão de Planilhas de Casos e Cenários de Testes. Execução de Testes Funcionais e 
+Aceitação.Especificação de Script de Testes Funcionais. Acompanhamento e mensuração de métricas. Verificação e 
+validação de Requisitos.
+
+Dezembro 2012 – Setembro 2013 – Analista de Testes Pleno – Grupo Casa Magalhães (Projeto SYSPDV Web / CE)
+Planejamento, definição, elaboração e acompanhamento de Planos de Ciclo de Testes, Casos de Teste, Especificações de 
+Testes Funcionais. Revisão e Correção de documentação de Requisitos e Testes. Execução de Testes Funcionais, Regressão, 
+Integração. Avaliação de estrutura de qualidade, usabilidade e aceitação. Triagem e condução de defeitos e melhorias. 
+Mensuração, elaboração e acompanhamento de Relatórios Quantitativos e Qualitativos.
+
+Agosto 2011 – Dezembro 2012 – Web Designer Developer, MihQueiroz.com
+Elaboração e manutenção layout dos projetos de internet e intranet; Manutenção páginas (HTML, CSS, ASP e ASP.net); 
+Criação peças gráficas para meios digitais e impressão; Diagramação de periódicos de circulação interna e externa.
+
+Janeiro 2011 – Agosto 2011 – Web Designer Developer, Stefanini IT Solution (Projeto Assembléia / RS)
+Elaboração e manutenção de layout dos projetos de internet, intranet e hot site dos parlamentares; Manutenção 
+páginas (HTML, CSS, ASP e ASP.net).
+
+Setembro 2009 – Agosto 2001 – Web Designer Developer, CTZ Consultoria e Informática (Projeto FEPAM / RS)
+Elaboração e manutenção layout dos projetos de internet e intranet; Manutenção páginas (HTML, CSS, ASP e ASP.net); 
+Criação peças gráficas para meios digitais e impressão; Diagramação de periódicos de circulação interna e externa.
+
+Abril 2008 – Agosto 2011 – Web Designer Developer, DK Designer & Consultoria
+Desenvolvimento de sites (manipulação de elementos no Flash, Fireworks e Dreammwevar  – HTML  – PHP); Desenvolvimento, 
+configuração e envio de newslleter / malas diretas digitais; Editoração eletrônica (PageMaker e Indesigner), 
+Tratamento e Manipulação de Imagens (Photoshop),  Artes Gráficas e Desenvolvimento de peças comerciais, tais como 
+embalagens, cartazes, panfletos, cartões e afins (Corel Draw).
+
+Outubro 2008 – Setembro 2009 – Web Master, Ortho Source do Brasil
+Desenvolvimento e manutenção de sites (HTML, CSS – ASP – Flash); Desenvolvimento, configuração e envio de newsletter, 
+malas diretas digitais e postais; Criações de elementos gráficos, manipulação de imagens e afins; Acompanhamento de 
+campanhas institucionais e promoções.
+
+OUTRAS INFORMAÇÕES
+
+Curso de Preparação para Certificação CBTS
+
+Metodologias trabalhadas: SCRUM, XP, RUP
+
+Ferramentas: IBM Rational (RRC - RQM - RFT), JIRA, DotProject
+
+Nível Intermediário para Inglês e Alemão
+
+Nível Básico para Espanhol e Francês
+
+29 anos, solteira, residente em Fortaleza - CE, com disponibilidade para mudança de estado
+
+
+Link resume: http://mihqueiroz.com/resume.html
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
